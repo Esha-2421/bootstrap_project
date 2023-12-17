@@ -214,7 +214,7 @@ body{
     width:350px;
     height: 470px;
     border: solid 3px #D5B455;
-    margin:150px 0 100px 0;
+    margin:150px 0px 100px 0px;
     text-align: center;
 }
 .plan4 h2{
@@ -319,7 +319,7 @@ body{
 .venue4 a:link,.venue4 a:visited{
   color:white;
   text-decoration:none;
-  padding:10px 15px;
+  padding:10px 10px;
   background:maroon;
   border-radius:20px;
   text-align:center;
