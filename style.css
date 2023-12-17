@@ -324,6 +324,7 @@ body{
   border-radius:20px;
   text-align:center;
   margin:0 100px;
+  font-size:5px;
 }
 .venue4 a:hover{
   color:maroon;
