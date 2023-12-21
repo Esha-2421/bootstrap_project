@@ -189,7 +189,7 @@ body{
   }
   .plan2 img{
     border-radius: 100%;
-    width: 325px;
+    width: 300px;
     height: 300px;
     box-shadow: 7px 7px 31px 0px rgba(0,0,0,0.53);
     transition: all 2s;
@@ -206,17 +206,15 @@ body{
 }
 .plan3 img{
     border-radius: 100%;
-    width: 325px;
+    width: 300px;
     height: 300px;
     box-shadow: 7px 7px 31px 0px rgba(0,0,0,0.53);
     transition: all 2s;
     margin-top: 50px;
 }
 .plan4{
-    width:400px;
-    height: 470px;
     border: solid 3px #D5B455;
-    margin:150px 0px 100px 0px;
+    margin:120px 0px 80px 0px;
     text-align: center;
 }
 .plan4 h2{
@@ -251,7 +249,7 @@ body{
 }
 .plan5 img{
     border-radius: 100%;
-    width: 325px;
+    width: 300px;
     height: 300px;
     box-shadow: 7px 7px 31px 0px rgba(0,0,0,0.53);
     transition: all 2s;
@@ -265,7 +263,7 @@ body{
 }
 .plan6 img{
     border-radius: 100%;
-    width: 325px;
+    width: 300px;
     height: 300px;
     box-shadow: 7px 7px 31px 0px rgba(0,0,0,0.53);
     transition: all 2s;
@@ -318,11 +316,11 @@ body{
 .venue4 a:link,.venue4 a:visited{
   color:white;
   text-decoration:none;
-  padding:10px 10px;
+  padding:10px 15px;
   background:maroon;
   border-radius:20px;
   margin:0 100px;
-  font-size:5px;
+  font-size:10px;
 }
 .venue4 a:hover{
   color:maroon;
